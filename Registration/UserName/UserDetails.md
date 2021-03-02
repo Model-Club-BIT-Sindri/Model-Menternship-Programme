@@ -4,9 +4,7 @@ title: Student
 name: "Name"
 github-link: "https://github.com/ "
 description: "hello I am Bot Developer"
-Team-Quote: ""
-Team_Tech_Stack: ""
-Application_Type: ""
+LinkedIn: ""
 ---
 
 Short Discription about yourself
