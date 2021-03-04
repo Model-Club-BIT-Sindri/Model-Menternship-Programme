@@ -1,14 +1,14 @@
 ---
                                                      
 title: Student
-name: "Imran"
+name: "Gourav sonkar"
 github-link: "https://github.com/ "
-description: "hello I am Bot Developer"
+description: "I am a curious person and like to play chess"
 LinkedIn: ""
 ---
 
 Short Discription about yourself
-
+I am gourav sonkar from jamshedpur and have been fascinated by the world of tech. I am a B.tech 1st year student at bit sindri batch 2k20 branch electrical engineering. I am also interested in deep space and stellar evolution.
 ---
 
 
@@ -20,16 +20,16 @@ Fill Team Details for only the valid no of members in your team and delete the l
 
 ## Leader Details
 
-_**Name**_ :Imran
+_**Name**_ :Gourav sonkar
 
 _**University-Name**_ : BIT Sindri
 
 _**country**_ : India
  
-_**Technical-Skills**_ : HTML CSS JS AWS
+_**Technical-Skills**_ : HTML and learning js
 
-_**Specialization**_ :
+_**Specialization**_ : none such as of now
 
-_**GitHub-ID**_ :  
+_**GitHub-ID**_ :  cunningbait1Gourav
 
 ---
