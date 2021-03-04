@@ -1,9 +1,9 @@
 ---
                                                      
 title: Student
-name: "Gourav sonkar"
-github-link: "https://github.com/cunningbait1Gourav"
-description: "hello i am gourav sonkar from jamshedpur i am an astrophile"
+name: "Name"
+github-link: "https://github.com/ "
+description: "hello I am Bot Developer"
 LinkedIn: ""
 ---
 
@@ -20,16 +20,16 @@ Fill Team Details for only the valid no of members in your team and delete the l
 
 ## Leader Details
 
-_**Name**_ : Gourav sonkar
+_**Name**_ :
 
-_**University-Name**_ : BIT Sindri
+_**University-Name**_ : 
 
-_**country**_ : INDIA
+_**country**_ :
  
-_**Technical-Skills**_ : know HTML worked on c++
+_**Technical-Skills**_ :
 
-_**Specialization**_ : none such
+_**Specialization**_ :
 
-_**GitHub-ID**_ : github.com/cunningbait1Gourav  
+_**GitHub-ID**_ :  
 
 ---
