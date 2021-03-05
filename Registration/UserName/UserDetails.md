@@ -1,14 +1,14 @@
 ---
                                                      
 title: Student
-name: "VIKASH KUMAR"
-github-link: "https://github.com/thevikashkumar12"
-description: "Hello I am a student at BIT SINDRI"
+name: "Name"
+github-link: "https://github.com/ "
+description: "hello I am Bot Developer"
 LinkedIn: ""
 ---
 
 Short Discription about yourself
-I am a quick learner and adventurous person
+
 ---
 
 
@@ -20,16 +20,16 @@ Fill Team Details for only the valid no of members in your team and delete the l
 
 ## Leader Details
 
-_**Name**_ :VIKASH KUMAR
+_**Name**_ :
 
-_**University-Name**_ :BIT SINDRI 
+_**University-Name**_ : 
 
-_**country**_ :INDIA
+_**country**_ :
  
-_**Technical-Skills**_ :Basics of Arduino
+_**Technical-Skills**_ :
 
-_**Specialization**_ :Not yet
+_**Specialization**_ :
 
-_**GitHub-ID**_ :  https://github.com/thevikashkumar12 
+_**GitHub-ID**_ :  
 
 ---
