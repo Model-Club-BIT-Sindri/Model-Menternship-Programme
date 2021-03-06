@@ -1,8 +1,8 @@
 ---
                                                      
 title: Student
-name: "Name"
-github-link: "https://github.com/ "
+name: "Vivek"
+github-link: "https://github.com/vivek-2219"
 description: "hello I am Bot Developer"
 LinkedIn: ""
 ---
@@ -20,16 +20,16 @@ Fill Team Details for only the valid no of members in your team and delete the l
 
 ## Leader Details
 
-_**Name**_ :
+_**Name**_ : Vivek Kumar
 
-_**University-Name**_ : 
+_**University-Name**_ : BIT sindri
 
-_**country**_ :
+_**country**_ : India
  
-_**Technical-Skills**_ :
+_**Technical-Skills**_ : 
 
 _**Specialization**_ :
 
-_**GitHub-ID**_ :  
+_**GitHub-ID**_ :  https://github.com/vivek-2219
 
 ---
