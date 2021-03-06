@@ -26,7 +26,7 @@ _**University-Name**_ : BIT sindri
 
 _**country**_ : India
  
-_**Technical-Skills**_ : 
+_**Technical-Skills**_ : HTML CSS JS AWS
 
 _**Specialization**_ :
 
