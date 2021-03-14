@@ -1,7 +1,7 @@
 ---
                                                      
 title: Student
-name: "Name"
+name: "Shweta"
 github-link: "https://github.com/ "
 description: "hello I am Bot Developer"
 LinkedIn: ""
