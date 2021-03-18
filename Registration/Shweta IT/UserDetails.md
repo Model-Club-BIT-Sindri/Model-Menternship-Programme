@@ -1,7 +1,7 @@
 ---
                                                      
 title: Student
-name: "Sakshi"
+name: "Shweta"
 github-link: "https://github.com/ "
 description: "hello I am Bot Developer"
 LinkedIn: ""
@@ -20,13 +20,13 @@ Fill Team Details for only the valid no of members in your team and delete the l
 
 ## Leader Details
 
-_**Name**_ :Sakshi
+_**Name**_ :
 
-_**University-Name**_ : BIT Sindri
+_**University-Name**_ : 
 
-_**country**_ : India
+_**country**_ :
  
-_**Technical-Skills**_ : HTML CSS JS AWS
+_**Technical-Skills**_ :
 
 _**Specialization**_ :
 
