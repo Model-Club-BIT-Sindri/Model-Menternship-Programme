@@ -1,12 +1,12 @@
 ---                                                        
-title: Project
-name: "Project Team"
-github-link: "https://github.com/ "
-description: "whats your project do"
+title: Arduino
+name: "Arduino: The choice of hobbyist"
+github-link: "https://github.com/Megha3102/Model-Menternship-Programme.git "
+description: "Arduino uses in projects"
 Team-Quote: ""
 Team_Tech_Stack: ""
-Application_Type: ""
-No_Of_Members: ""
+Application_Type: "website"
+No_Of_Members: "1"
 ---
 
 Explain your project
